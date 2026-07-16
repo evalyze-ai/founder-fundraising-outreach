@@ -2,6 +2,8 @@
 
 Detailed templates and patterns for every cold email, follow-up, and reply scenario. These are not fill-in-the-blank templates. They are skeletons to adapt. Always rewrite in the founder's actual voice.
 
+**Mandatory gate (v6):** every skeleton in this file passes through the Human-voice system in SKILL.md and the scrub in `anti-ai-tells.md` before it ships. That means: no blacklist words, none of the thirteen banned constructions, the punctuation diet (including dropped optional hyphens and no colons in cold emails), the burstiness rules, and structure rotation. Plus the v6 hard rules for first-touch cold emails: **40-70 words (80 cap), zero links or attachments or calendar links, exactly one proof point, at most one recipient detail, the four-block shape with blank lines between blocks, subject under 55 chars with no colons or dashes, ask under 12 words ending in a question mark, numerals for minutes.** Never reuse one skeleton shape across multiple drafts in a session; if two founders compared the emails this skill wrote them, the skeletons should not look like siblings. Where any older skeleton below conflicts with those rules (a labeled traction block, a stacked metric string, a deck link in a first touch, matching bullets, a triple-phrase cadence), the v6 rules win. The worked examples below have been updated to the v6 shape; where a longer legacy example survives for a reply scenario, treat its strategy as current and its length as the ceiling, not the target.
+
 ## Table of contents
 
 1. Cold email patterns
@@ -17,51 +19,41 @@ Detailed templates and patterns for every cold email, follow-up, and reply scena
 
 ### Pattern A: Hook from a recent signal
 
-When the investor wrote something, said something, or invested in something relevant in the last 30–60 days. This is the highest-conversion hook because it shows you actually pay attention.
+When the investor wrote something, said something, or invested in something relevant in the last 30-60 days. This is the highest-conversion hook because it shows you actually pay attention.
 
-**Skeleton:**
+**Skeleton (four blocks, blank line between each):**
 
-> Subject: [Company] [one-line value prop] - [traction nugget]
+> Subject: [sector or problem, one number, commas only, under 55 chars]
 >
-> [Investor first name],
+> Hi [First],
 >
-> Caught your [post / podcast / tweet / talk] on [specific topic] last week. The point about [specific thing they said] matched what we're seeing at [Company].
+> Your [post / podcast / talk] on [specific topic] matched what we see at [Company]. We're building [what it is, plain words] for [who]. [ONE proof point, the strongest single fact.]
 >
-> We're building [what it is] for [who]. [One concrete thing about how it works or what makes it different.]
->
-> [Traction line: hard numbers. MRR, growth, customer name-drop, retention, whatever's strongest.]
->
-> Raising [$X] [seed/Series A] now, [N] checks committed at [$amount avg]. [Status: looking for lead, or filling out, etc.]
->
-> Open to a 25-minute call [specific window]? Here's the deck: [trackable link]
+> Raising [$X] [stage]. Worth 20 minutes next week?
 >
 > [First name]
 
-**Worked example (worked for a real B2B SaaS founder, names changed):**
+No deck link, no calendar link, nothing clickable. The deck goes out when they reply.
 
-> Subject: AI ops for mid-market hospitals - $40K MRR, 35% MoM
+**Worked example (v6 shape; the pattern that booked meetings in real 2025-2026 campaigns):**
+
+> Subject: hospital ops software, 11 hospitals paying
 >
 > Hi Sarah,
 >
-> Caught your post on vertical AI in regulated industries last week. The point about workflow lock-in mattering more than model quality matched what we're seeing.
+> Your post on vertical AI in regulated industries matched what we see in the field. We're building Quill, one workspace that replaces the six tools mid-market hospitals juggle for operations. 11 hospitals pay for it now and 92% have stayed.
 >
-> We're building Quill, the operations layer for mid-market hospitals (50–500 beds). Replaces 6 legacy tools with one workspace, integrates with Epic and Cerner.
->
-> $40K MRR, growing 35% MoM, 11 paying hospitals, 92% retention. Two regional health systems in pilot, one signs in November.
->
-> Raising $3M seed. $1.2M soft-circled from healthcare angels and Mercury Health. Looking for a thesis-fit lead.
->
-> 25 minutes next week? Tue/Wed afternoons PST work, here's my Calendly: [link]. Deck: [link]
+> Raising our seed. Worth 20 minutes next week?
 >
 > Mike
-> CEO, Quill
 
 **Why this works:**
-- Subject line tells Sarah exactly what the company is and gives her one number to pattern-match against.
-- Hook references something Sarah actually wrote, with a sentence that shows the founder read it. Couldn't be sent to any other VC.
-- Traction line has 4 specific data points in 14 words.
-- Round status is honest about where they are without overstating.
-- Ask is specific: 25 minutes, time window, calendar link.
+- 52 words. Under the 2026 reply-rate sweet spot and readable in one phone glance.
+- Subject is six plain words with one number, no colon, no dash, could only be this company.
+- One recipient detail (her post), one line, then move on.
+- One proof point (11 paying, 92% stayed), not a metric wall. MRR and growth rate are held back for follow-up 1 and the deck.
+- Ask is seven words ending in a question mark, numerals for the minutes.
+- Nothing to click, so nothing for a spam filter to score and nothing that reads like a campaign. Her reply is the goal, the deck rides on it.
 
 ### Pattern B: Hook from a portfolio adjacency
 
@@ -69,7 +61,7 @@ When the investor backed a company you're adjacent to (not a competitor, but in 
 
 **Skeleton:**
 
-> Subject: [Company] - [adjacency to portfolio company]
+> Subject: [portfolio company] overlap, [Company]
 >
 > [Investor first name],
 >
@@ -91,7 +83,7 @@ When you have a mutual connection but haven't gotten a formal warm intro. Better
 
 **Skeleton:**
 
-> Subject: [Mutual] suggested I reach out - [Company], [traction nugget]
+> Subject: [Mutual] said to reach out, [Company]
 >
 > [Investor first name],
 >
@@ -107,47 +99,37 @@ When you have a mutual connection but haven't gotten a formal warm intro. Better
 
 When traction is thin (waitlist, no revenue, just-launched). Lean on team and insight, not numbers.
 
-**Skeleton:**
+**Skeleton (pre-revenue: the founder's identity IS the proof point):**
 
-> Subject: [Company] - [unique insight or angle]
+> Subject: [problem or wedge, plain words, under 55 chars]
 >
-> [Investor],
+> Hi [First],
 >
-> [Hook from their writing/portfolio/thesis.]
+> [Identity line: why this founder, checkable and plain.] Building [what it is, one sentence]. [ONE early signal: waitlist, LOIs, design partners. Honest about scale.]
 >
-> Building [what it is]. [One sentence on why now: a market shift, a tech change, a behavior change you've spotted.]
+> Raising [$X] pre-seed. Open to 20 minutes?
 >
-> [Team line: why you. Past company, technical depth, domain experience. Make it count.]
->
-> [Traction line, even if thin: waitlist size, design partners, LOIs, beta users, early signal. Be honest about scale.]
->
-> Raising [$X] pre-seed/seed. [Who's in or interested.]
->
-> [Ask + deck.]
+> [First name]
 
-**Worked example (consumer AI, pre-revenue):**
+**Worked example (consumer AI, pre-revenue, v6 shape):**
 
-> Subject: Voice journaling for 200M people who hate writing - 50K waitlist
+> Subject: voice journaling, 50K waitlist in six weeks
 >
 > Hi James,
 >
-> Loved your essay on consumer AI being a UX problem, not a model problem. Three years at Snap shipping voice features tells me you're right.
+> I spent three years at Snap shipping voice features, now I'm building Mira, voice first journaling. You talk, it gives you back a structured reflection. 50K people joined the waitlist in six weeks, all organic.
 >
-> Building Mira, voice-first journaling. Talk to it, get back a structured reflection, build a personal archive over time. iOS only for now.
+> Your essay on consumer AI being a UX problem is half our thesis.
 >
-> 50K waitlist in 6 weeks, 80% from organic TikTok. Beta opens in November.
->
-> Raising $1M pre-seed. $400K committed from consumer angels (ex-Calm, ex-Headspace, two former Snap PMs). Looking for one more strategic check.
->
-> 20 minutes next week? Calendly: [link]. Deck: [link]
+> Raising $1M pre-seed. Open to 20 minutes?
 >
 > Priya
 
 **Why this works:**
-- Honest about being pre-revenue, doesn't pretend.
-- Team signal does heavy lifting: ex-Snap, plus angels who've worked on adjacent products.
-- Waitlist number is real and specific.
-- Hook references James's actual essay, not "your portfolio."
+- 58 words. The team line is the opener because pre-revenue, the founder is the product.
+- One proof point (the waitlist), one recipient detail (his essay, one line).
+- "voice first" with no hyphen, "50K" plain, no colons, nothing clickable.
+- Angel commits and beta date held back for follow-up 1, which now has something new to say.
 
 ---
 
@@ -155,15 +137,15 @@ When traction is thin (waitlist, no revenue, just-launched). Lean on team and in
 
 ### Follow-up 1 - 3 business days after the cold email
 
-Short. Adds one new piece of progress. Reply in the same thread, no new subject line.
+30-55 words. Reply in the same thread, no new subject line. Never open with "following up," "circling back," "bumping this," or "just checking in." Lead with the new fact itself, or "One thing I left out last time:", "Quick update:", or a different proof point than the first email carried.
 
 **Skeleton:**
 
 > Hi [first name],
 >
-> Quick nudge on the below. One update since I sent it: [new customer / new hire / new metric / new partnership / new milestone].
+> One thing I left out last time: [new fact, or the second-strongest proof point held back from email 1].
 >
-> [Restate the ask in one line if needed.]
+> [Restate the ask, one line, question mark.]
 >
 > [First name]
 
@@ -171,21 +153,21 @@ Short. Adds one new piece of progress. Reply in the same thread, no new subject 
 
 > Hi Sarah,
 >
-> Quick nudge on the below. Quick update: signed our 12th hospital this morning, the second-biggest in our pipeline.
+> One thing I left out last time: we signed our 12th hospital this morning, the second biggest in our pipeline.
 >
-> Still happy to do 25 min next week if you're open.
+> Still worth 20 minutes next week?
 >
 > Mike
 
-**If there's nothing new to share:** Skip the update line and just be human.
+**If there's nothing new to share:** be plain and offer the easy no.
 
 > Hi Sarah,
 >
-> Following up on this. I know your inbox is brutal. If now isn't the right time, all good, just let me know either way and I'll stop pestering.
+> I know your inbox is brutal. If this isn't a fit for you right now, a quick no is genuinely useful and I'll stop here.
 >
 > Mike
 
-### Follow-up 2 - 7–10 days after Follow-up 1
+### Follow-up 2 - 7-10 days after Follow-up 1
 
 Different angle. Share an insight, a customer learning, a content piece you wrote, or a forward-looking metric. Make it interesting on its own merit, even if they don't reply.
 
@@ -193,11 +175,9 @@ Different angle. Share an insight, a customer learning, a content piece you wrot
 
 > Hi [first name],
 >
-> Following up. [Two- to three-line insight from a customer call, market data point, or content you've made.]
+> Quick update: [one insight from a customer call, one market data point, or one metric move. Two lines max.]
 >
-> [Restate the ask gently. New data point if you have one.]
->
-> Deck still here: [link]
+> [Restate the ask, one line, question mark. Or offer the deck: "Want the deck?"]
 >
 > [First name]
 
@@ -205,20 +185,18 @@ Different angle. Share an insight, a customer learning, a content piece you wrot
 
 > Hi Sarah,
 >
-> Following up. Spent yesterday on calls with three CIOs at 200-bed hospitals. Common thread: every single one is being told to "do AI" by their board, with zero budget and zero strategy. They're looking for a single vendor to anchor the program. That's exactly the wedge we're hitting.
+> Quick update: spent yesterday with three CIOs at 200 bed hospitals, every one is being told to do AI by their board with no budget and no plan. That gap is exactly our wedge. We also crossed $50K MRR this week.
 >
-> Crossed $50K MRR this week. 25 min anytime that works for you, Tue or Thu next week?
->
-> Deck: [link]
+> Worth 20 minutes, Tue or Thu?
 >
 > Mike
 
 **Why this works:**
-- The customer-call insight is genuinely interesting and shows the founder is in the field.
-- The metric update ($50K MRR, up from $40K in the original email) shows momentum, not stagnation.
-- Gentle ask, two specific time windows.
+- Leads with the new thing, never with "following up."
+- The customer-call insight shows the founder is in the field, and the metric shows momentum since email 1 (the MRR number was deliberately held out of the first touch).
+- 48 words. Still no link; the deck is one reply away, which is the point.
 
-### Follow-up 3 - 2–3 weeks after Follow-up 2
+### Follow-up 3 - 2-3 weeks after Follow-up 2
 
 Final and graceful. Restate the ask, make it easy to say no, leave the door open.
 
@@ -228,7 +206,7 @@ Final and graceful. Restate the ask, make it easy to say no, leave the door open
 >
 > Going to stop chasing after this one. If timing's not right or it's not a fit for [Firm] right now, I get it.
 >
-> If you're up for it, mind if I send an update in 60–90 days? I'll have [specific milestone] by then.
+> If you're up for it, mind if I send an update in 60-90 days? I'll have [specific milestone] by then.
 >
 > Either way, thanks for the time you've already spent.
 >
@@ -240,7 +218,7 @@ Final and graceful. Restate the ask, make it easy to say no, leave the door open
 >
 > Going to stop chasing on this. If timing's not right or it's not a fit for Bessemer right now, totally understand.
 >
-> Mind if I send an update in 60 days? Should be at $80–100K MRR by then with our first enterprise contract closed.
+> Mind if I send an update in 60 days? Should be at $80-100K MRR by then with our first enterprise contract closed.
 >
 > Either way, appreciate the time you've already given the inbox.
 >
@@ -253,7 +231,7 @@ Final and graceful. Restate the ask, make it easy to say no, leave the door open
 
 ### Optional Follow-up 4 - Re-engagement after a polite pass
 
-Send 60–90 days after a "not now." Only if there's something genuinely new.
+Send 60-90 days after a "not now." Only if there's something genuinely new.
 
 **Skeleton:**
 
@@ -361,7 +339,7 @@ For every reply, produce TWO versions (direct + warmer) so the founder picks bas
 >
 > We're letting the round price itself. Talking to a few potential leads, will share specifics with whoever's most interested in leading.
 >
-> Range we're seeing in similar deals at our stage and metrics is [$X–Y post]. Happy to dig into our thinking on a call.
+> Range we're seeing in similar deals at our stage and metrics is [$X-Y post]. Happy to dig into our thinking on a call.
 >
 > [First name]
 
@@ -371,7 +349,7 @@ For every reply, produce TWO versions (direct + warmer) so the founder picks bas
 >
 > Honestly, we're holding off on a hard number until we have a lead in place. Have a few conversations going with potential leads, and I'd rather let one of them set the price than anchor either way myself.
 >
-> For context, deals we're looking at as comps are landing in the [$X–Y post] range. But that's a starting point, not a number I'm wedded to.
+> For context, deals we're looking at as comps are landing in the [$X-Y post] range. But that's a starting point, not a number I'm wedded to.
 >
 > Worth a call to talk through the round structure and our thinking?
 >
@@ -421,7 +399,7 @@ For every reply, produce TWO versions (direct + warmer) so the founder picks bas
 >
 > Three reasons, fast:
 >
-> 1. The price moves. At [$X post] now vs. likely [$3–5X] at the A, your ownership for the same dollars is [N]x.
+> 1. The price moves. At [$X post] now vs. likely [$3-5X] at the A, your ownership for the same dollars is [N]x.
 > 2. Conviction premium. The investors who back us at [seed/A] get the upside. The ones who pile on at the next round pay the multiple.
 > 3. What you unlock now: intros to [target customer segment], help recruiting [key role], thesis-shaping. That's worth more pre-product-market fit than post.
 >
@@ -435,7 +413,7 @@ For every reply, produce TWO versions (direct + warmer) so the founder picks bas
 >
 > Fair question. The case I'd make:
 >
-> The price now is [$X post]. By the Series A, even if we just keep doing what we're doing, we're likely at [$3–5X] minimum. So the same check buys you [N]x the ownership today.
+> The price now is [$X post]. By the Series A, even if we just keep doing what we're doing, we're likely at [$3-5X] minimum. So the same check buys you [N]x the ownership today.
 >
 > Beyond price, the early backers shape the company in ways the later ones don't. We're going to need help with [specific challenge, e.g., enterprise sales, regulated procurement, recruiting a head of growth]. That's exactly where your [Firm/portfolio/expertise] adds the most.
 >
@@ -455,7 +433,7 @@ For every reply, produce TWO versions (direct + warmer) so the founder picks bas
 >
 > One ask: anyone in your network who'd be a better fit for [stage/sector]? One intro would mean a lot.
 >
-> Either way, I'll send an update in 60–90 days when we've got more to share. All the best.
+> Either way, I'll send an update in 60-90 days when we've got more to share. All the best.
 >
 > [First name]
 
@@ -467,7 +445,7 @@ For every reply, produce TWO versions (direct + warmer) so the founder picks bas
 >
 > If you have one second, is there anyone in your network who you think would actually be a fit for [stage/sector]? One warm intro from you would carry more than ten of my cold emails.
 >
-> Either way, I'll close the loop with an update in 60–90 days. Hopefully we'll have a chance to work together on the next one.
+> Either way, I'll close the loop with an update in 60-90 days. Hopefully we'll have a chance to work together on the next one.
 >
 > [First name]
 

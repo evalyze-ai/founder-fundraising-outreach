@@ -1,6 +1,6 @@
 # Founder Fundraising Outreach
 
-A Claude skill that helps founders write investor outreach that actually gets replies.
+A Claude skill that helps founders write investor outreach that actually gets replies, and reads like a human wrote it.
 
 Cold emails to VCs that don't get deleted. Follow-ups that add real progress instead of nagging. Replies to investor questions that don't fumble valuation or traction. Due diligence prep that surfaces gaps before investors do. Post-meeting recaps within the 24-hour window. Pipeline stall recovery scripts that work without faking competitive tension.
 
@@ -12,11 +12,12 @@ Built for founders raising pre-seed through Series B.
 
 Most founder cold emails to VCs get deleted in 5 seconds. The reason isn't the company. It's the email.
 
-Three patterns kill them:
+Four patterns kill them:
 
 1. **Generic personalization.** "I admire your portfolio" tells the partner you mass-mailed.
 2. **Vague traction.** "Strong growth" reads as "no growth."
 3. **No specific ask.** "Let me know if you're interested" gets ignored.
+4. **Reads as AI.** In 2026 investors filter for generated text and stop reading the second they catch it. Paul Graham said publicly he stops reading founder emails the moment he recognizes AI, because it feels like being lied to. Several funds have asked founders outright to stop sending AI-written pitches. The best email in the world still fails if the reader clocks it as generated.
 
 Most fundraising advice is too high-level to fix any of this. Templates produce emails that read templated. Coaches charge thousands per session. AI tools cheerfully invent investor podcasts that don't exist and burn the founder's reputation.
 
@@ -40,6 +41,8 @@ Eight modes, all routed from the same shared inputs:
 ---
 
 ## What makes it different
+
+**Built to never read as AI.** This is the v0.10 headline. The skill treats sounding human as the top priority, above every other rule. It researches like a machine and writes like a founder typing between meetings: short, one proof point, a plain ask, uneven rhythm, no performance. It ships with a seven-layer field guide to the tells (words, phrases, constructions, punctuation, rhythm, theme, and the meta-tells that survive word-scrubbing) in `references/anti-ai-tells.md`, and runs a scrub pass on every draft before you see it. The reason this leads the list is the fourth failure pattern above. A perfect email still dies if the reader thinks a bot wrote it.
 
 **The fabrication rule.** The skill never invents investor content (posts, podcasts, theses, portfolio companies) or founder facts (background, commits, customers, metrics). When information is missing, it surfaces a visible placeholder instead of guessing. This protects founders from sending emails referencing essays the investor never wrote.
 
@@ -118,6 +121,10 @@ Examples that trigger it:
 - "Just had a meeting with Foundation, help me send the recap"
 - "Improve this fundraising email" (paste your draft)
 - "Mass outreach for our seed round, 40 investors"
+- "Make this sound human" (paste any draft)
+- "Does this sound like AI"
+
+As of v0.10 the skill also fires on general email tasks, not just fundraising. If you paste any message and ask to rewrite it so it reads human, or to check whether it sounds AI-generated, it will handle that too.
 
 The skill will ask for the inputs it needs (company one-liner, traction, target investor, etc.) and run a pre-flight check before drafting so you know whether your email is structurally strong, medium, or thin given the inputs.
 
@@ -125,9 +132,16 @@ The skill will ask for the inputs it needs (company one-liner, traction, target 
 
 ## Status
 
-**v0.9, in pilot with founders.**
+**v0.10.0, in pilot with founders.**
 
-This is the initial release. It's been tested across 14+ scenarios and stress-tested for fabrication, voice calibration, and edge cases (medium-thin inputs, adversarial replies, fake-pressure refusal). It's better than what most founders currently use. It's not perfect.
+This release makes sounding human the skill's top job. New in v0.10:
+
+- A prime directive that puts never reading as AI above every other rule, with the 2026 evidence behind it
+- A new `references/anti-ai-tells.md` field guide: a seven-layer tell catalog plus a scrub procedure the skill runs on every draft
+- A tightened, reorganized SKILL and an expanded style guide
+- Broader triggering, so the skill now also helps with general email and de-AI-ing any draft, not only fundraising
+
+It's still stress-tested for fabrication, voice calibration, and edge cases (medium-thin inputs, adversarial replies, fake-pressure refusal). It's better than what most founders currently use. It's not perfect.
 
 Real-world feedback is what gets it to v1.0. If you use it and something feels off, please [open an Issue](../../issues). Bug reports are more useful than compliments.
 

@@ -119,7 +119,7 @@ For each question: the right shape of the answer, what to avoid, and a template 
 
 ### "Who are your competitors and how do you win?"
 
-**Right shape:** Map the field honestly. Pick 2–3 real competitors. State how you're different and why your differentiation matters to your ICP.
+**Right shape:** Map the field honestly. Pick 2-3 real competitors. State how you're different and why your differentiation matters to your ICP.
 
 **Avoid:** "We have no competitors." "We're 10x better." Naming companies that aren't actually in your space.
 
@@ -128,7 +128,7 @@ For each question: the right shape of the answer, what to avoid, and a template 
 
 ### "What are the biggest risks you see in the business?"
 
-**Right shape:** Name 2–3 real risks before they ask. This earns trust fast.
+**Right shape:** Name 2-3 real risks before they ask. This earns trust fast.
 
 **Avoid:** "Execution risk" as a non-answer. Pretending there are no risks.
 
@@ -203,7 +203,7 @@ Standard contents for a seed or Series A data room. Adapt for sector. Use a tool
 - [ ] Customer concentration analysis (top 1, top 5, top 10 by revenue)
 - [ ] Cohort retention chart (12 months minimum if available)
 - [ ] Churn analysis (which customers churned and why)
-- [ ] 3–5 customer references (with permission)
+- [ ] 3-5 customer references (with permission)
 - [ ] Sample customer contracts (with sensitive parts redacted if needed)
 
 ### Pipeline
@@ -245,7 +245,7 @@ Investors trust founders who name their own weaknesses. The list below covers th
 
 ### Customer concentration
 
-If one customer is more than 25–30% of revenue, name it. Have a plan: how you're diversifying, expected timeline, what's in the pipeline.
+If one customer is more than 25-30% of revenue, name it. Have a plan: how you're diversifying, expected timeline, what's in the pipeline.
 
 > "Our top customer is 35% of ARR. We signed two more in the same segment last quarter, by Q2 the top customer should be under 25%."
 
@@ -289,7 +289,7 @@ If you don't have SOC 2, GDPR processes, HIPAA BAAs, or whatever your sector req
 
 If neither founder is a domain expert, or if neither has done sales, or if there's a clear missing skill on the team, address it.
 
-> "Neither of us has run enterprise sales before. We hired [name] as Head of Sales in [month] specifically for that. He ran $0–10M at [past company]. References available."
+> "Neither of us has run enterprise sales before. We hired [name] as Head of Sales in [month] specifically for that. He ran $0-10M at [past company]. References available."
 
 ---
 

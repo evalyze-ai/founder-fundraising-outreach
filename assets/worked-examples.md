@@ -2,6 +2,8 @@
 
 Real-shape founder emails (names, numbers, and details fictionalized) showing the kind of transformations this skill produces. Use these to internalize the pattern.
 
+**Note (v6):** some examples predate the current rules. Where any example conflicts with SKILL.md or `references/anti-ai-tells.md`, the v6 rules win, specifically: cold first touch is 40-70 words (80 cap) with ZERO links, attachments, or calendar links; exactly ONE proof point (no stacked metric strings); at most one recipient detail; four-block shape with blank lines; subject under 55 chars with no colons or dashes; optional compound hyphens dropped; follow-ups never open with "following up" or "circling back." Internalize the strategic moves here, not the exact skeletons. Example 1 below has been updated to the v6 shape.
+
 ## Example 1: B2B SaaS cold email
 
 ### Before
@@ -28,34 +30,30 @@ Real-shape founder emails (names, numbers, and details fictionalized) showing th
 
 ### After
 
-> Subject: AI ops for mid-market hospitals — $40K MRR, 35% MoM
+> Subject: hospital ops software, 11 hospitals paying
 >
 > Hi Sarah,
 >
-> Caught your post on vertical AI in regulated industries last week. The point about workflow lock-in mattering more than model quality matched what we're seeing.
+> I ran operations at a 300 bed hospital for six years before starting Quill. We replace the six tools mid-market hospitals juggle for ops with one workspace. 11 hospitals pay for it now and 92% have stayed.
 >
-> Building Quill, the operations layer for mid-market hospitals (50–500 beds). Replaces 6 legacy tools with one workspace, integrates with Epic and Cerner.
+> Your vertical AI post last week matched what we see in the field.
 >
-> $40K MRR, growing 35% MoM, 11 paying hospitals, 92% retention. Two regional health systems in pilot, one signs in November.
->
-> Raising $3M seed. $1.2M soft-circled from healthcare angels and Mercury Health. Looking for a thesis-fit lead.
->
-> 25 minutes next week? Tue/Wed afternoons PST. Calendly: [link]. Deck: [link]
+> Raising our seed. Worth 20 minutes next week?
 >
 > Mike
 
-**Word count: 110**
+**Word count: 64**
 
 ### What changed and why
 
-- **Subject line:** "Investment opportunity in revolutionary AI platform for healthcare" said nothing useful. The new subject says exactly what the company is and gives the partner one number to pattern-match against. Under 60 characters.
-- **First line:** "I hope this email finds you well" is filler. The replacement is a real, specific reference to something Sarah actually wrote, with one sentence proving the founder read it (not just saw the headline).
-- **Buzzword density:** "revolutionary," "AI-powered," "end-to-end," "reimagining," "leveraging cutting-edge," "unlock significant value," "democratize," "innovative solution," "strong growth," "game-changer," "rapidly growing." Every one cut. Replaced with concrete nouns and numbers.
-- **Traction line:** "Strong growth and traction" → 4 specific numbers in 14 words.
-- **Specificity:** "Signed up multiple customers" → "11 paying hospitals." "Significant revenue" → "$40K MRR."
-- **Round info:** Added explicit round status ($1.2M soft-circled, looking for a lead) which gives Sarah momentum to pattern-match against.
-- **Ask:** "Quick chat sometime in the coming weeks" → "25 minutes next week, Tue/Wed afternoons PST, Calendly link."
-- **Attachment:** PDF attachment removed. Replaced with trackable deck link.
+- **Subject line:** "Investment opportunity in revolutionary AI platform for healthcare" said nothing useful. The new subject is six plain words with one number, under 55 characters, no colon or dash, and could only be this company.
+- **First line:** "I hope this email finds you well" is filler, and flattery about Greylock is worse. The replacement is the founder's checkable identity, which no tool writes unless it's true.
+- **Buzzword density:** "revolutionary," "AI-powered," "end-to-end," "reimagining," "leveraging cutting-edge," "unlock significant value," "democratize," "innovative solution," "strong growth," "game-changer," "rapidly growing." Every one cut. Replaced with concrete nouns and one number.
+- **Traction:** "Strong growth and traction" said nothing. The tempting overcorrection is four metrics in one line, which reads machine-compressed. One proof point (11 paying, 92% stayed) carries it; MRR and growth rate are held back for follow-up 1 and the deck.
+- **Personalization:** one line about Sarah's post, then move on. Fit, not flattery.
+- **Ask:** "Quick chat sometime in the coming weeks" → "Worth 20 minutes next week?" Seven words, question mark, numerals.
+- **Clickables:** attachment removed and NOT replaced with a link. Zero links in a first touch: better deliverability, better engagement (asking beats dropping the deck), better read. The trackable deck link goes out when Sarah replies.
+- **Shape:** four blocks with blank lines between. 184 words → 64.
 - **Sign-off:** "Best regards, Michael Chen, CEO and Co-Founder, Quill Inc." → "Mike."
 
 ---
@@ -83,33 +81,31 @@ Real-shape founder emails (names, numbers, and details fictionalized) showing th
 
 ### After
 
-> Subject: Voice journaling for 200M people who hate writing — 50K waitlist
+> Subject: Voice journaling for 200M people who hate writing, 50K waitlist
+>
+> Subject: voice journaling, 50K waitlist in six weeks
 >
 > Hi James,
 >
-> Loved your essay on consumer AI being a UX problem, not a model problem. Three years at Snap shipping voice features tells me you're right.
+> I spent three years at Snap shipping voice features, now I'm building Mira, voice first journaling. You talk, it gives you back a structured reflection. 50K people joined the waitlist in six weeks, all organic.
 >
-> Building Mira, voice-first journaling. Talk to it, get back a structured reflection, build a personal archive over time. iOS only for now.
+> Your essay on consumer AI being a UX problem is half our thesis.
 >
-> 50K waitlist in 6 weeks, 80% from organic TikTok. Beta opens in November.
->
-> Raising $1M pre-seed. $400K committed from consumer angels (ex-Calm, ex-Headspace, two former Snap PMs). Looking for one more strategic check.
->
-> 20 minutes next week? Calendly: [link]. Deck: [link]
+> Raising $1M pre-seed. Open to 20 minutes?
 >
 > Priya
 
-**Word count: 109**
+**Word count: 58**
 
 ### What changed and why
 
-- **Subject line:** Before was generic "[Company] - [What it is] - [Stage]." After signals the market wedge ("200M people who hate writing") and the one impressive number (50K waitlist).
-- **Hook:** "Reaching out because I'm building..." is about the founder. Replaced with a specific reference to James's essay, with one sentence ("Three years at Snap shipping voice features tells me you're right") that simultaneously personalizes AND establishes credentials.
-- **Description:** "Revolutionize the way people reflect" is empty. Replaced with what Mira actually does in three concrete clauses.
-- **Background:** "Deep passion for consumer AI" is dead weight. The Snap line in the hook does the credibility work more efficiently.
-- **Traction:** "Impressive waitlist" → "50K waitlist in 6 weeks, 80% from organic TikTok." The "80% organic TikTok" detail tells James something specific about distribution.
-- **Round info:** Added because pre-revenue companies especially need to lean on momentum. "$400K committed from [specific named-archetype angels]" is much stronger than nothing.
-- **Ask:** "30-minute call to explore mutual interest" → "20 minutes next week, Calendly."
+- **Subject line:** Before was generic "[Company] - [What it is] - [Stage]" with dashes. After is plain words, one number, commas only, under 55 chars.
+- **Opener:** "Reaching out because I'm building..." is throat-clearing. Replaced with the founder's checkable identity (three years at Snap on voice), which is the strongest card a pre-revenue founder holds.
+- **Description:** "Revolutionize the way people reflect" is empty. Replaced with what Mira actually does in two plain clauses. "Voice first" with no hyphen, typed-fast register.
+- **One proof point:** the waitlist. The beta date and the $400K in angel commits are deliberately held back, they're follow-up 1 and follow-up 2 material now.
+- **One recipient detail:** James's essay, one line ("is half our thesis"), then done. The old version spent a full flattering paragraph on it.
+- **Ask:** "30-minute call to explore mutual interest" → "Open to 20 minutes?" Numerals, question mark.
+- **Clickables:** zero. No Calendly, no deck. Both go out when James replies.
 
 ---
 
@@ -138,17 +134,13 @@ Real-shape founder emails (names, numbers, and details fictionalized) showing th
 
 > Hi David,
 >
-> Following up. Spent the last week with the buyer side, three procurement leads at mid-market manufacturers (50–500 employees). Common thread: they're managing 80+ supplier relationships in spreadsheets and email. The pain isn't price discovery, it's reorder cadence and stockouts.
+> Quick update: spent last week with three procurement leads at mid market manufacturers. All of them run 80 plus supplier relationships out of spreadsheets, and the pain is reorder cadence, not price discovery. That gap is our wedge. GMV crossed $220K last week.
 >
-> That's the wedge we're hitting. Crossed $220K monthly GMV last week (up from $200K when I emailed). 40% take rate holding.
->
-> 25 min anytime that works for you, Tue or Thu next week?
->
-> Deck still here: [link]
+> Worth 20 minutes, Tue or Thu?
 >
 > Sasha
 
-**Word count: 81**
+**Word count: 52**
 
 ### What changed and why
 
@@ -201,7 +193,7 @@ Real-shape founder emails (names, numbers, and details fictionalized) showing th
 
 ## Example 5: Polite pass reply
 
-**Context:** Investor wrote "Sorry — not the right stage for us right now, but please keep us posted as you grow."
+**Context:** Investor wrote "Sorry, not the right stage for us right now, but please keep us posted as you grow."
 
 ### Direct version
 
@@ -209,9 +201,9 @@ Real-shape founder emails (names, numbers, and details fictionalized) showing th
 >
 > Appreciate the clear answer, that's actually rare. Genuinely useful.
 >
-> One ask: anyone in your network who'd be a fit for our seed (US-based, fintech-focused, $250K–$1M check)? One intro would mean a lot.
+> One ask: anyone in your network who'd be a fit for our seed (US-based, fintech-focused, $250K-$1M check)? One intro would mean a lot.
 >
-> Either way, I'll send an update in 60–90 days when we've got more to share. All the best.
+> Either way, I'll send an update in 60-90 days when we've got more to share. All the best.
 >
 > Sasha
 
@@ -221,9 +213,9 @@ Real-shape founder emails (names, numbers, and details fictionalized) showing th
 >
 > Thanks for the candor, and for taking the time to look at it. A clear pass is more useful than three weeks of silence, so genuinely appreciate it.
 >
-> If you have one second, is there anyone in your network you think would actually be a fit for our seed (US-based, fintech-focused, $250K–$1M check)? One warm intro from you would carry more than ten cold emails from me.
+> If you have one second, is there anyone in your network you think would actually be a fit for our seed (US-based, fintech-focused, $250K-$1M check)? One warm intro from you would carry more than ten cold emails from me.
 >
-> Either way, I'll close the loop with an update in 60–90 days. Hopefully we'll have a chance to work together on the next one.
+> Either way, I'll close the loop with an update in 60-90 days. Hopefully we'll have a chance to work together on the next one.
 >
 > Sasha
 
@@ -232,7 +224,7 @@ Real-shape founder emails (names, numbers, and details fictionalized) showing th
 - No begging, no whining, no "are you sure?"
 - The thank-you is genuine but brief.
 - Asks for ONE referral, not "introductions to your network."
-- The referral request is qualified: "US-based, fintech-focused, $250K–$1M check." That makes it 10x easier for Marcus to think of the right person.
+- The referral request is qualified: "US-based, fintech-focused, $250K-$1M check." That makes it 10x easier for Marcus to think of the right person.
 - Sets up the 60-day update clearly. This is the move: the first pass is rarely permanent. Most founders forget this and disappear after a no.
 
 ---
@@ -277,45 +269,40 @@ Real-shape founder emails (names, numbers, and details fictionalized) showing th
 - PDF attachment.
 - Sign-off includes "Founder & CEO" which is corporate.
 
-### Rewrite (assuming the founder filled in real specifics — flagging the gaps)
+### Rewrite (assuming the founder filled in real specifics, flagging the gaps)
 
-> Subject: AI for legal ops teams — 14 paying firms, $48K MRR
+> Subject: legal ops AI, 14 firms paying
 >
-> Hi [Partner first name — needs to be specific],
+> Hi >>> PARTNER_FIRST_NAME: fill in, do not send to a generic inbox <<<,
 >
-> [Hook needs the partner's actual writing/portfolio referenced. Without that, this email won't land. Asking the founder for one specific signal from the partner — a recent post, podcast, or investment.]
+> >>> HOOK: one line referencing this partner's recent post, podcast, or investment. Skip the email entirely if you can't find one <<<
 >
-> Building Helix, the AI workflow tool for mid-market law firms. Ingests case files, drafts first-pass memos, integrates with iManage and NetDocs.
+> Building Helix, AI that drafts first pass memos from case files for mid market law firms. 14 firms pay for it and 91% have stayed.
 >
-> $48K MRR, 14 paying firms, 91% retention. Two AmLaw 200 firms in active pilot.
->
-> Raising $2M seed. $700K soft-circled from legal-tech angels. Looking for a thesis-fit lead.
->
-> 25 minutes next week? Tue/Wed afternoons. Calendly: [link]. Deck: [link]
+> Raising $2M seed. Worth 20 minutes next week?
 >
 > David
 
-**Word count: 100**
+**Word count: ~55 with hook filled**
 
 ### What changed and why
 
-- **Subject line:** Specifies the actual market wedge (legal ops teams, not "future of work") and gives one number. Under 60 chars.
-- **TAM claim:** Removed entirely. A $100B TAM with no math is anti-signal. The traction numbers do the work the TAM was trying to do.
-- **Team section:** Cut. The team line can come later, in the call. A cold email needs to lead with the company and traction, not the founder's resume.
+- **Subject line:** the actual wedge plus one number, six words, no colons or dashes.
+- **TAM claim:** Removed entirely. A $100B TAM with no math is anti-signal. The proof point does the work the TAM was trying to do.
+- **Team section:** Cut. The team line can come later, in the call.
 - **Buzzwords:** Eliminated. "Disrupting," "next-generation," "AI-powered," "revolutionizing," "paradigm shift," "game-changer," "world-class," "best-in-class," "holistic," "end-to-end," "ecosystem," "empowers," "seamlessly leverage," "unlock unprecedented," "supercharge." Every one removed.
-- **Specificity:** "Significant interest from beta users" → "14 paying firms, $48K MRR, 91% retention." "Impressive pipeline" → "Two AmLaw 200 firms in active pilot."
-- **Hook:** Flagged as a gap. Without a specific reference to the partner's work, the email won't land. The skill should ask the founder for this.
-- **Ask:** "Quick coffee chat" → specific time window + Calendly.
-- **Length:** 261 words → 100 words.
+- **One proof point:** 14 paying firms and their retention. MRR, the AmLaw pilots, and the soft-circle are all held back for follow-ups and the deck, where they'll each get their own moment.
+- **Hook:** Flagged as a hard gap with a visible placeholder. Without a specific signal from the partner, the email doesn't send.
+- **Ask:** "Quick coffee chat" → "Worth 20 minutes next week?"
+- **Clickables:** Calendly and deck link both removed. Nothing to click in a first touch; the trackable deck goes out on reply.
+- **Length:** 261 words → ~55.
 
 ### What to customize before sending
 
-- Need to fill in the actual partner's first name.
-- Need to find one specific signal from the partner (podcast, post, investment) and write a one-line hook referencing it. Do not send without this.
+- Fill both placeholders. Do not send without the hook.
 - Verify the traction numbers are current (these were inferred from David's draft, double-check).
-- Confirm the soft-circled commitments are real and the angels are willing to be referenced if asked.
-- Replace the deck link with a trackable version (DocSend, Visible, etc.) before sending.
-- Send from david@helix.com, not Gmail.
+- Have the trackable deck (DocSend, Visible, etc.) ready to send within the hour of a reply.
+- Send from david@helix.com, not Gmail, at the partner's local morning.
 
 ---
 

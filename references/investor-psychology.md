@@ -4,9 +4,9 @@ Why investors actually reply, what they're scanning for, and how to write so you
 
 ## The brutal truth about VC inboxes
 
-A typical seed partner gets 50–200 cold inbound a week. They open the email, scan for 5 seconds, and decide one of three things:
+A typical seed partner gets 50-200 cold inbound a week. They open the email, scan for 5 seconds, and decide one of three things:
 
-1. **Reply** (very rare, maybe 1–2% of cold inbound)
+1. **Reply** (very rare, maybe 1-2% of cold inbound)
 2. **Skim and pass** (silently, ~30% read but don't reply)
 3. **Delete unread** (the majority)
 
@@ -66,7 +66,7 @@ Investors have built strong signal-detection from seeing thousands of pitches. H
 
 ## What VCs actually look for at each stage
 
-### Pre-seed ($250K–$2M)
+### Pre-seed ($250K-$2M)
 
 The bet is on the **founders and the insight**. Numbers are usually thin, so the weight shifts to:
 
@@ -76,30 +76,30 @@ The bet is on the **founders and the insight**. Numbers are usually thin, so the
 - Early signal: design partners, LOIs, waitlist with engagement metrics, pilots
 - Fundraise math: are you raising enough runway to hit a meaningful milestone
 
-### Seed ($1M–$5M)
+### Seed ($1M-$5M)
 
 The bet is on the **early product-market-fit signal**. Investors want to see:
 
 - Product in customer hands (not just demos)
 - Some revenue or paid pilots, even if small
-- 6–12 months of cohort data trending the right way
+- 6-12 months of cohort data trending the right way
 - A repeatable acquisition channel showing early signal
 - The first few hires post-founders
-- A clear path to Series A milestones (typically $1–3M ARR)
+- A clear path to Series A milestones (typically $1-3M ARR)
 
-### Series A ($5M–$20M)
+### Series A ($5M-$20M)
 
 The bet is on **product-market fit being real and scalable**. Investors want:
 
-- $1M–$3M ARR minimum (sector-dependent, lower for deeptech, higher for SaaS)
+- $1M-$3M ARR minimum (sector-dependent, lower for deeptech, higher for SaaS)
 - Net Revenue Retention >100%
 - 12+ months of cohort retention data
 - Repeatable, attributable acquisition (not all referrals)
 - Unit economics that work at the current scale, with a credible thesis on why they'll improve
 - A management team forming under the founders (head of sales, head of product, etc.)
-- A clear path to Series B milestones (usually $5–10M ARR with strong growth)
+- A clear path to Series B milestones (usually $5-10M ARR with strong growth)
 
-### Series B ($15M–$50M+)
+### Series B ($15M-$50M+)
 
 The bet is on **scaling to a category-defining outcome**. Investors want:
 
@@ -109,7 +109,7 @@ The bet is on **scaling to a category-defining outcome**. Investors want:
 - Multi-channel acquisition working
 - Senior leadership team mostly in seat
 - A defensible position vs. clear competitors
-- A path to $100M ARR within 24–36 months
+- A path to $100M ARR within 24-36 months
 
 ## How investors decide to reply
 
@@ -166,15 +166,15 @@ The single biggest force in fundraising is momentum. Investors want to be in dea
 
 How to build momentum:
 
-1. Build a list of 30–50 target investors before you start, ranked by tier.
+1. Build a list of 30-50 target investors before you start, ranked by tier.
 2. Start with tier 3 to practice your pitch. Get to "no" or "yes" fast on these.
-3. Once your pitch is sharp, hit tier 2 in the same 1–2 week window.
+3. Once your pitch is sharp, hit tier 2 in the same 1-2 week window.
 4. With a few "yes" or "leaning yes" in hand, hit tier 1 with the momentum signal. "I have $X soft-circled, you'd be one of the first leads to look at it. I'm closing in [N] weeks."
 
 Avoid: blasting tier 1 first, getting a string of passes, and then trying to come back later with the same pitch. That signal is bad.
 
 ## Why founders should care about all this
 
-Because the bar is brutally high and the founder's energy is finite. Sending 100 generic emails to whoever you can find on Crunchbase will get you 1–2 replies on a good week. Sending 20 carefully-researched emails to thesis-fit partners with strong personalization can get you 8–12 replies, several first meetings, and one or two paths to a check.
+Because the bar is brutally high and the founder's energy is finite. Sending 100 generic emails to whoever you can find on Crunchbase will get you 1-2 replies on a good week. Sending 20 carefully-researched emails to thesis-fit partners with strong personalization can get you 8-12 replies, several first meetings, and one or two paths to a check.
 
-That's the difference this skill is trying to deliver: 5–10x conversion lift on the same fundraise effort. Quality compounds in fundraising more than quantity.
+That's the difference this skill is trying to deliver: 5-10x conversion lift on the same fundraise effort. Quality compounds in fundraising more than quantity.
